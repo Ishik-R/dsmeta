@@ -19,3 +19,12 @@ a:visited {
     color: unset;
     text-decoration: none;
 }
+
+.dsmeta-red-btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+#sales {
+    padding: 30px 10px;
+}
