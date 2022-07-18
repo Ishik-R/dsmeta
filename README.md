@@ -16,11 +16,11 @@ Criou-se uma interface dinâmica na qual são exibidos até 20 vendas diferentes
 
 Esta interface ainda muda de acordo com a largura de exibição da janela: conforme a janela se torna mais larga, mais informações sobre cada usuário são exibidas. No total, cada venda possui 6 dados atrelados: ID, data da venda, nome do vendedor, visitas, vendas e total.
 
-<img src = "https://github.com/Ishik-R/dsmeta-images/blob/main/exemplo2.jpg?raw=true" height="300">
+<img src = "https://github.com/Ishik-R/dsmeta-images/blob/main/exemplo2.jpg?raw=true" height="500">
 
 Este projeto ainda conta com integração a mensagens de texto para celulares (SMS). O botão "notificar" envia uma mensagem diretamente a um número pré-definido (meu número pessoal, no caso) com um feedback sobre a venda selecionada.
 
-<img src = "https://github.com/Ishik-R/dsmeta-images/blob/main/exemplo4.jpg?raw=true" height = "100">
+<img src = "https://github.com/Ishik-R/dsmeta-images/blob/main/exemplo4.jpg?raw=true" height = "400">
 
 
 # **Etapas do desenvolvimento do projeto:**
